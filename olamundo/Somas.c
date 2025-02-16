@@ -10,6 +10,8 @@ int main() {
     printf("Digite o segundo número: ");
     scanf("%d", &num2);
 
+    printf (" quer uma nova operação ? \n");
+
     // Calcula a soma dos dois números
     soma = num1 + num2;
 
